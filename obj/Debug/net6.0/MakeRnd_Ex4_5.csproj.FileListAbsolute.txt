@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\bin\Debug\net6.0\MakeRnd_Ex4_5.exe
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\bin\Debug\net6.0\MakeRnd_Ex4_5.deps.json
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\bin\Debug\net6.0\MakeRnd_Ex4_5.runtimeconfig.json
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\bin\Debug\net6.0\MakeRnd_Ex4_5.dll
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\bin\Debug\net6.0\ref\MakeRnd_Ex4_5.dll
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\bin\Debug\net6.0\MakeRnd_Ex4_5.pdb
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\obj\Debug\net6.0\MakeRnd_Ex4_5.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\obj\Debug\net6.0\MakeRnd_Ex4_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\obj\Debug\net6.0\MakeRnd_Ex4_5.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\obj\Debug\net6.0\MakeRnd_Ex4_5.AssemblyInfo.cs
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\obj\Debug\net6.0\MakeRnd_Ex4_5.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\obj\Debug\net6.0\MakeRnd_Ex4_5.dll
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\obj\Debug\net6.0\ref\MakeRnd_Ex4_5.dll
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\obj\Debug\net6.0\MakeRnd_Ex4_5.pdb
+D:\cat32tw\Desktop\MakeRnd_Ex4_5\obj\Debug\net6.0\MakeRnd_Ex4_5.genruntimeconfig.cache
